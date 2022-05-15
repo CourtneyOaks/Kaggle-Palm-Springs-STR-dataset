@@ -92,6 +92,6 @@ I have provided a series of questions I constructed as well as the SQL code used
 ![Kaggle_PS_14](https://user-images.githubusercontent.com/102244119/168496493-b058d8df-9f4b-4b80-b1bc-f45c7d086c7a.png)
 
 
-## Create a visualization to show number of properties versus number of bedrooms:
+### Create a visualization to show number of properties versus number of bedrooms:
 ![Screen Shot 2022-05-15 at 4 53 35 PM](https://user-images.githubusercontent.com/102244119/168495426-d2030040-6dd2-439d-99ce-778e49443f25.png)
 
